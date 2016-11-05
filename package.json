@@ -1,0 +1,19 @@
+{
+  "name": "stock_market",
+  "version": "1.0.0",
+  "description": "calculates the maximum return potential given array of stock prices",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Behzad",
+  "license": "ISC"
+}
